@@ -1,2 +1,2 @@
 # LearnDSA
-Java is life.-
+DSA using Java-
